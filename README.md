@@ -1,7 +1,6 @@
 # A backup of nickpunt/MicroTouchMac with a few things added that I think might be interesting.
 
-# SOMEONE PLEASE DUMP THE ROMS I'M TALKING ABOUT YOU NICKPUNT
-Come on man :(
+Someone please dump the roms off the controller board, it's a quite simple board that could easily be replicated (With the roms the only thing stopping us from making more of these is the fact that these touchscreens are impossible to find). I suppose someone who owns a $450 4 of a kind upgrade doesn't want more of them being made :(
 
 # MicroTouchMac
 This is a resource for people interested in the MicroTouch Mac 'n Touch touchscreen for ADB-based Compact Macintosh computers (SE, SE/30, Classic, Classic II), as well as for later Mac-based Microtouch products (external monitors and iMacs).
