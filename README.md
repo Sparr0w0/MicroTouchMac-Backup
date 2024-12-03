@@ -98,6 +98,8 @@ A few places I've found the Mac 'n Touch mentioned:
 
 **History of Pen and Gesture Computing** (1996-1998) [source](http://ruetersward.com/biblio.html) [alt](http://users.rcn.com/rwservices/pens/biblio93.html) [alt](http://users.erols.com/rwservices/pens/biblio03.html) [alt](https://www.researchgate.net/publication/258219935_History_of_Pen_and_Gesture_Computing_Annotated_Bibliography_in_On-line_Character_Recognition_Pen_Computing_Gesture_User_Interfaces_and_Tablet_and_Touch_Computers_References_from_the_approximate_years_) - very thorough list of various touch computing products over the years
 
+**Infoworld, Volume 15, Issue 8 (May 3, 1993)** p30 [source](https://books.google.com/books?id=QjsEAAAAMBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) on page 30 there is an article about MicroTouch's 14-in macintosh touch monitor called the "Mac'n Touch SA-14", based on ClearTek 1000.
+
 # Notes
 * Early 90s - MicroTouch also made something called the UnMouse, an early trackpad (see PDF in Other).
 * 1993 - Microtouch also announced a monitor for the Amiga called the TruePoint CA-42. [source: AmigaReport](https://www.amigareport.com/ar124/p1-5.html)
