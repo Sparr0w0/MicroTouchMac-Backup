@@ -102,5 +102,5 @@ A few places I've found the Mac 'n Touch mentioned:
 
 # Notes
 * Early 90s - MicroTouch also made something called the UnMouse, an early trackpad (see PDF in Other).
-* 1993 - Microtouch also announced a monitor for the Amiga called the TruePoint CA-42. [source: AmigaReport](https://www.amigareport.com/ar124/p1-5.html)
+* 1993 - Microtouch also announced a monitor for the Amiga called the TruePoint CA-42. [source: AmigaReport](https://www.amigareport.com/ar124/p1-5.html) (site gone now, [here](https://web.archive.org/web/20190911074009/https://www.amigareport.com/ar124/p1-5.html) on the internet archive.
 * 2001 - MicroTouch was acquired by 3M.
