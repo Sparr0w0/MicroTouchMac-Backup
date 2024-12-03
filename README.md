@@ -80,6 +80,8 @@ See **Other** folder. Contains lots of PDFs that may be of interest for reverse 
 ## Screens
 **ClearTek** are MicroTouch's capacitive screens, which they made in sizes from 8.5"-28". [source](https://web.archive.org/web/20000302005950/http://www.microtouch.com/mthtml/03a1a_sensors-controllers.htm). Mentions are made elsewhere in MicroTouch documentation about '5 pin' style touchscreens. The Mac 'n Touch capacitive screens use a DB9 connector with 5 pins active, which suggests these may be compatible. Mentions are made of the same 1024x1024 resolution, suggesting the touchscreen hardware may be interchangeable.
 
+Based on my research the ClearTek screens used in the Mac N' Touch appear to be "ClearTek 1000" as opposed to the more modern "ClearTek 3000" or "ClearTek II". I think any screen with that 5 pin thing could work
+
 There is a 13" curved ClearTek screen (would fit a 13" crt) with a serial controller [on ebay](https://www.ebay.com/itm/111632149731) (ebay item num. 111632149731) for $125. This controller may be able to be modified to work with adb (or the original adb controller could be recreated). Maybe someday an 9" screen will show up
 
 ## Controllers
