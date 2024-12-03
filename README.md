@@ -1,4 +1,4 @@
-# A backup of nickpunt/MicroTouchMac with a few things I think might be interesting.
+# A backup of nickpunt/MicroTouchMac with a few things added (in Sparrow Additions/) that I think might be interesting.
 
 # SOMEONE PLEASE DUMP THE ROMS I'M TALKING ABOUT YOU NICKPUNT
 Come on man :(
